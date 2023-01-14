@@ -11,14 +11,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/arnavgupta2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arnavgupta2003" height="30" width="40" /></a>
-<a href="https://twitter.com/arnavgupta5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnavgupta5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arnavgupta-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnavgupta-" height="30" width="40" /></a>
-<a href="https://kaggle.com/extinctarnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="extinctarnav" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/extinct_arnav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/extinct_arnav" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/arnav_gupta_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/arnav_gupta_2003" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/extinct_arnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/extinct_arnav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/extinct_arnav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/extinct_arnav/" height="30" width="40" /></a>
+<a href="https://dev.to/arnavgupta2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev: arnavgupta2003" height="30" width="40" /></a>
+<a href="https://twitter.com/arnavgupta5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twiiter: arnavgupta5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arnavgupta-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIN: arnavgupta-" height="30" width="40" /></a>
+<a href="https://kaggle.com/extinctarnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle: extinctarnav" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/extinct_arnav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef: extinct_arnav" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/arnav_gupta_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank: arnav_gupta_2003" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/extinct_arnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces: extinct_arnav" height="30" width="40" /></a>
+<a href="https://leetcode.com/extinct_arnav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode: extinct_arnav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
