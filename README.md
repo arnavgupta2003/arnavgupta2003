@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Gupta</h1>
-<h3 align="center">Sophomore @ IIITD | Developer | Competitive Programmer</h3>
+<h3 align="center">Senior @ IIITD | Developer | Competitive Programmer | Undergradute Security Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavgupta2003&label=Profile%20views&color=0e75b6&style=flat" alt="arnavgupta2003" /> </p>
 
